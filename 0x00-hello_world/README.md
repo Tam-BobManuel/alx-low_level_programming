@@ -1,0 +1,1 @@
+A readme file for the hello world folder, today I tested some basic functions in C to utput strings
