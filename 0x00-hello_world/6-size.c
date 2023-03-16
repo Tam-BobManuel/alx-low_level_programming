@@ -1,13 +1,12 @@
 #include <stdio.h>
 
 /**
- * main - main block
- * Return: 0
- */
-
-/**
- * main - Entry point for the program 
- * Return: 0 if exited properly, non-zero otherwise
+ * main - Entry point for the program
+ *
+ * This function prints the size of various types in bytes using the `sizeof` operator.
+ * It calls the `printf` function to display the output to the console and returns 0 on success.
+ *
+ * Return: 0 on success, non-zero on failure
  */
 int main(void)
 {
