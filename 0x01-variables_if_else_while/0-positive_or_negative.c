@@ -1,17 +1,12 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/* more headers goes there */
 
-/* betty style doc for function main goes there */
 /**
-* main - This is the entry point of the program
-*
-* the function generates a random number and check if it's
-* positive or negative or just zero
-*
-* return: returns zero if te program runs sucessfully
-*/
+ * main - assigns a random number to int n everytime
+ * it executes, and prints it
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
 	int n;
