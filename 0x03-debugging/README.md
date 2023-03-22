@@ -22,7 +22,7 @@ This program converts a date to the day of year and determines how many days are
 <h3>main.h</h3>
 This file contains the header file for all the programs.
 
-<h3>How to use</h3>
+<h2>How to use</h2>
 To use these programs, compile them using a C compiler such as gcc and run the executable. For example, to run the 0-main.c program, use the following commands:
 $ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 0-main.c -o 0-main
 $ ./0-main
