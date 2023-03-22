@@ -28,4 +28,4 @@ $ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 0-main.c -o 0-main
 $ ./0-main
 
 <h2>Authors</h2>
-These Programs were written by @Tam-BobManuel and ALX
+These Programs were written by <a href="https://github.com/Tam-BobManuel">@Tam-BobManuel</a> and ALX
