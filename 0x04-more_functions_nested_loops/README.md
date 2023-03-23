@@ -23,4 +23,4 @@
       <li>Run the executable using the command ./&lt;output-file&gt;</li>
     </ol>
     <h3>Author</h3>
-    <p><a href="https://github.com/Tam-BobManuel">Tam-BobManuel</a></p> and <p> <a href="https://www.alxafrica.com"></a></p>
+    <p><a href="https://github.com/Tam-BobManuel">Tam-BobManuel</a> X <a href="https://www.alxafrica.com">ALX</a></p>
