@@ -16,10 +16,11 @@
     </ul>
     <h2>How to Use</h2>
     <ol>
-      <li>Clone this repository using git clone https://github.com/&lt;username&gt;/alx-low_level_programming.git</li>
+      <li> I do not suggest cloning this repo until you have attempted the project yourself</li>
+      <li>Clone this repository using git clone https://github.com/Tam-BobManuel/alx-low_level_programming.git</li>
       <li>Navigate to the project directory using cd alx-low_level_programming/0x04-more_functions_nested_loops</li>
       <li>Compile the C files using the command gcc -Wall -pedantic -Werror -Wextra -std=gnu89 *.c -o &lt;output-file&gt;</li>
       <li>Run the executable using the command ./&lt;output-file&gt;</li>
     </ol>
     <h3>Author</h3>
-    <p><a href="https://github.com/Tam-BobManuel">Tam-BobManuel</a> X <a href="https://www.alxafrica.com"></a></p>
+    <p><a href="https://github.com/Tam-BobManuel">Tam-BobManuel</a></p> and <p> <a href="https://www.alxafrica.com"></a></p>
