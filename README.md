@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-#ALX_low_level_programming
-=======
-<h1>ALX_low_level_programming</h1>
->>>>>>> e4565a382e31d5ce298e4ecaed574c5f9ebee62d
+##Singly Linked Lists Tasks
+Overview
+This repository contains my solutions to the Singly Linked Lists Tasks.
